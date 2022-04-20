@@ -2,7 +2,7 @@
 
 <br>
   <a href="#" target="_blank">
-    <img src="svg/animations.svg" width="1200" alt="animations" />
+    <img src="svg/animation.svg" width="1200" alt="animation" />
   </a>
 
 <br>
